@@ -574,3 +574,7 @@ document.addEventListener("DOMContentLoaded", function (_e) {
     }
 
 });
+
+if('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('./sw.js');
+};
