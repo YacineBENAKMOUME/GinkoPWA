@@ -1,7 +1,7 @@
 {
-  "name": "Ginkobus PWA",
-  "short_name": "Ginkobus pwa-examples",
-  "description": "Progressive Web App of Ginkobus",
+  "name": "Ginkobus by Yacine",
+  "short_name": "Yacine Ginko",
+  "description": "Ginkobus by Yacine",
   "icons": [
     {
       "src": "icons/icon-32.png",
